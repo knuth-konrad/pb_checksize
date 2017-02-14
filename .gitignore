@@ -1,0 +1,20 @@
+# Test data
+
+# Executables
+*.exe
+*.dll
+
+# Temp. test &  source files, compiler results, logs
+[Bb]ackup.*
+*.log
+*.tra
+*.ba_
+
+# Other tools
+
+# Misc. (binary) files
+*.bat
+*.txt
+*.zip
+CheckDiskFree.LNX
+folder_explore.png
