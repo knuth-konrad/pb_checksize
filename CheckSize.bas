@@ -8,9 +8,12 @@
 '   Source: -
 '  Changed: 14.02.2017
 '           - Refactoring for Github
+'           04.05.2017
+'           - #BREAK On to prevent console context menu change
 '------------------------------------------------------------------------------
 #Compile Exe ".\CheckSize.exe"
 #Option Version5
+#Break On
 #Dim All
 
 #Debug Error Off
@@ -18,7 +21,7 @@
 
 %VERSION_MAJOR = 1
 %VERSION_MINOR = 0
-%VERSION_REVISION = 1
+%VERSION_REVISION = 2
 
 ' Version Resource information
 #Include ".\CheckSizeRes.inc"
