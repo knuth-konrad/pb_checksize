@@ -1,4 +1,5 @@
 #Resource Icon, 1, "folder_explore.ico"
+#Resource Manifest, 1, "CheckSize.exe.manifest"
 
 #Resource VersionInfo
 #Resource FileVersion %VERSION_MAJOR, %VERSION_MINOR, %VERSION_REVISION, 0
