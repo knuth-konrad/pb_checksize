@@ -10,6 +10,8 @@
 '           - Refactoring for Github
 '           04.05.2017
 '           - #BREAK On to prevent console context menu change
+'           15.05.2017
+'           - application manifest added.
 '------------------------------------------------------------------------------
 #Compile Exe ".\CheckSize.exe"
 #Option Version5
@@ -21,7 +23,7 @@
 
 %VERSION_MAJOR = 1
 %VERSION_MINOR = 0
-%VERSION_REVISION = 2
+%VERSION_REVISION = 3
 
 ' Version Resource information
 #Include ".\CheckSizeRes.inc"
